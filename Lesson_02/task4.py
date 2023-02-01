@@ -16,10 +16,10 @@ count_watermelon = int(input('Количество арбузов:\n'))
 for i in range(count_watermelon):
     weight = int(input())
     if i == 0:
-        max_weight = weight
-        min_weight = weight
-    if weight>max_weight:
-        max_weight = weight
-    elif weight < min_weight:
-        min_weight =weight
+        max_weight = min_weight = weight
+    else:
+        if weight>max_weight:
+            max_weight = weight
+        elif weight < min_weight:
+            min_weight =weight
 print (min_weight, max_weight)
