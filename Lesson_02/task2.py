@@ -15,5 +15,19 @@ while number >= second_number:
     if number == second_number:
         flag = True
     first_number, second_number = second_number, first_number + second_number
-    index +=1    
+    index += 1
 print(index if flag else '-1')
+
+
+# number = int(input())
+# first_number = 0
+# second_number = 1
+# index = 2
+# while number >= second_number:
+#     if number == second_number:
+#         print(index)
+#         break
+#     first_number, second_number = second_number, first_number + second_number
+#     index += 1
+# else:
+#     print(-1)

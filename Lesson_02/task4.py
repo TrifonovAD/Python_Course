@@ -18,8 +18,8 @@ for i in range(count_watermelon):
     if i == 0:
         max_weight = min_weight = weight
     else:
-        if weight>max_weight:
+        if weight > max_weight:
             max_weight = weight
         elif weight < min_weight:
-            min_weight =weight
-print (min_weight, max_weight)
+            min_weight = weight
+print(min_weight, max_weight)

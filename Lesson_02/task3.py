@@ -28,4 +28,4 @@ for i in range(day):
     else:
         if temp > count:
             count, temp = temp, 0
-print (count)
+print(count)
