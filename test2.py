@@ -79,3 +79,8 @@ print(min_count)
    Выходные данные
    3
 '''
+
+from itertools import groupby
+
+res_list = [len(list(v)) for ch, v in groupby(input().split())]
+print(sum([i for i in res_list if i > 2]))
