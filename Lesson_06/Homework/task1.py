@@ -13,3 +13,8 @@ razn_mass = int(input())
 length_mass = int(input())
 mass = [start_mass + i * razn_mass for i in range(length_mass)]
 print(mass)
+
+
+# Альтернатива:
+
+print(*range(a, a + d * (n - 1) + 1, d))
