@@ -1,0 +1,8 @@
+{'ID': '1', 'surname': 'Смирнов', 'name': 'Сергей', 'patronymic': 'Михайлович', 'phone_number': '8964568758'}
+{'ID': '2', 'surname': 'Иванов', 'name': 'Иван', 'patronymic': 'Иванович', 'phone_number': '89645866545'}
+{'ID': '3', 'surname': 'Малышев', 'name': 'Сергей', 'patronymic': 'Михайлович', 'phone_number': '89058547345'}
+{'ID': '4', 'surname': 'Блинов', 'name': 'Александр', 'patronymic': 'Кириллович', 'phone_number': '89059345720'}
+{'ID': '5', 'surname': 'Морозов', 'name': 'Александр', 'patronymic': 'Матвеевич', 'phone_number': '89050168137'}
+{'ID': '6', 'surname': 'Гришина', 'name': 'Мирослава', 'patronymic': 'Филипповна', 'phone_number': '89055804483'}
+{'ID': '7', 'surname': 'Герасимов', 'name': 'Алексей', 'patronymic': 'Львович', 'phone_number': '89053707264'}
+{'ID': '8', 'surname': 'Зиновьев', 'name': 'Андрей', 'patronymic': 'Александрович', 'phone_number': '89050867174'}
